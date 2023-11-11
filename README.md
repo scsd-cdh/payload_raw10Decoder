@@ -1,6 +1,7 @@
  # Raw10 to JPG/PNG Image Conversion
 
 This Python script converts Raw10 image data to RGB and saves it as a PNG or JPG image.
+The original script in Rust was contributed by Ruben Sanchez.
 
 # Usage
 
