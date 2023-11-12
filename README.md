@@ -22,7 +22,7 @@ The original script in Rust was contributed by Ruben Sanchez.
 3. Run the script from your IDE or with:
 
     ```bash
-    python raw10_image_conversion.py
+    python raw10_decode.py
     ```
 
 4. Enter your file path when prompted for the Raw10 file you want to decode.
